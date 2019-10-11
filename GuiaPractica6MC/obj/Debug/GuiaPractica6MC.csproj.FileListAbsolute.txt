@@ -1,0 +1,7 @@
+C:\Users\carra\source\repos\Unicaes\GuiaPractica6MC\GuiaPractica6MC\bin\Debug\GuiaPractica6MC.exe.config
+C:\Users\carra\source\repos\Unicaes\GuiaPractica6MC\GuiaPractica6MC\bin\Debug\GuiaPractica6MC.exe
+C:\Users\carra\source\repos\Unicaes\GuiaPractica6MC\GuiaPractica6MC\bin\Debug\GuiaPractica6MC.pdb
+C:\Users\carra\source\repos\Unicaes\GuiaPractica6MC\GuiaPractica6MC\obj\Debug\GuiaPractica6MC.csprojAssemblyReference.cache
+C:\Users\carra\source\repos\Unicaes\GuiaPractica6MC\GuiaPractica6MC\obj\Debug\GuiaPractica6MC.csproj.CoreCompileInputs.cache
+C:\Users\carra\source\repos\Unicaes\GuiaPractica6MC\GuiaPractica6MC\obj\Debug\GuiaPractica6MC.exe
+C:\Users\carra\source\repos\Unicaes\GuiaPractica6MC\GuiaPractica6MC\obj\Debug\GuiaPractica6MC.pdb
